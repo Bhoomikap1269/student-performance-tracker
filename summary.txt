@@ -1,0 +1,22 @@
+🔹 Top 5 Math Scores:
+('male', 100)
+('female', 100)
+('female', 100)
+('male', 100)
+('male', 100)
+
+🔹 Average Scores by Gender:
+('female', 63.63, 72.61, 72.47)
+('male', 68.73, 65.47, 63.31)
+
+🔹 Pass/Fail (First 10 by Math Score):
+('female', 72, 'Pass')
+('female', 69, 'Fail')
+('female', 90, 'Pass')
+('male', 47, 'Fail')
+('male', 76, 'Pass')
+('female', 71, 'Pass')
+('female', 88, 'Pass')
+('male', 40, 'Fail')
+('male', 64, 'Fail')
+('female', 38, 'Fail')
